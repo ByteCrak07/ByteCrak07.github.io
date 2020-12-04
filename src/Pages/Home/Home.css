@@ -1,0 +1,17 @@
+#home {
+  height: 100vh;
+  background-color: rgb(29, 64, 114);
+  overflow: auto;
+  font-family: "Dancing Script", cursive;
+  color: white;
+}
+
+#home h1 {
+  margin-top: 30vh;
+}
+
+#home button {
+  font-family: "Dancing Script", cursive;
+  color: rgb(29, 64, 114);
+  font-size: 24px;
+}
